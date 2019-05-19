@@ -11,6 +11,7 @@ pacman -Sy --needed $pacman_packages --noconfirm
 pip2 install --upgrade setuptools
 pip2 install flexget
 pip2 install transmissionrpc
+pip2 install python-telegram-bot
 
 # call aor script (arch official repo)
 # source /root/aur.sh
